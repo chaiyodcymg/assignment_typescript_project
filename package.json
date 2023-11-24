@@ -1,0 +1,19 @@
+{
+  "name": "assignment_typescript_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mergeCollections.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.1",
+    "@types/jest": "^29.5.10",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.3.2"
+  }
+}
